@@ -32,12 +32,12 @@
                 <NuxtLink to="/propil/sejarah">
                   <button class="btn btn-primary me-2">Read More</button>
                 </NuxtLink>
-
+                  
               </div>
             </div>
           </div>
         </div>
-
+        
         <div class="col-lg-12 mb-3">
           <div class="card">
             <div class="card-header bg-light">
@@ -50,14 +50,14 @@
                 3.Mewujudkan manajemen pengelolaan yang efektif, efesien, transparan, akuntabel dan layanan prima</p>
               <!-- Tombol Aksi -->
               <div class="text-center">
-                <NuxtLink to="/propil/visi-misi">
+               <NuxtLink to="/propil/visi-misi">
                   <button class="btn btn-primary me-2">Read More</button>
                 </NuxtLink>
               </div>
             </div>
           </div>
         </div>
-
+  
         <div class="col-lg-12 mb-3">
           <div class="card">
             <div class="card-header bg-light">
@@ -139,7 +139,7 @@
             </div>
           </div>
         </div>
-
+  
         </div>
     </div>
   </div>
